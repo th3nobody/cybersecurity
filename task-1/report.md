@@ -7,6 +7,7 @@ network exposure
 ## Tools:
 - ip
 - Nmap
+- wireshark
 
 ## Task Solution
 ### 1. Installing Nmap [Download Nmap suitable for your system](https://nmap.org/download.html).
@@ -35,8 +36,35 @@ Result
 
   ![img not found](assets/nmap-scan.png)
 
-  [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+  :link: [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+
+#### Open ports.
+
+  |Port|State|Portocol|Service|
+  |----|-----|--------|-------|
+  |23|open|tcp|telnet|
+  |80|open|tcp|http|
+  |3517|open|tcp|802-11-iapp|
+
+  #### Connected devices in the Network
+  |IP|Device Type|Host name|
+  |--|-----------|---------|
+  |192.168.1.1|Router|192.168.1.1|
+  |192.168.1.2|unknown|unknown|
+  |192.168.1.3|kali machine|kali|
+  |192.168.1.6|smart phone|redmi-note-10-pro|
 
 
-  
+  ### 4. Analyzing packet capture with Wireshark.
 
+  - open `wireshark`
+  - choose wlan0
+  - nmap command: `nmap -sS -p 22,23,80 192.168.1.1`
+     here 192.168.1.1 is router ip and with filter `tcp and host 192.168.1.1` only communication with router under tcp protoval is captured in wire shark.
+
+    ![img not found](assets/wireshark.png)
+
+
+  <h2 align="center">End</h2>
+
+  ---
