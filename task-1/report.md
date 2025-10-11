@@ -12,6 +12,18 @@ network exposure
 ### 1. Installing Nmap [Download Nmap suitable for your system](https://nmap.org/download.html).
 - In my case (kali linux) i used command `sudo apt install nmap`.
   
- (assets/nmap-install.png)
+ ![img not found](assets/nmap-install.png)
+
+ ### 2. finding Local ip range 
+ - command `ip a`
+
+![img not found](assets/ip-scan.png)
+
+Result 
+- my device ip: 192.168.1.3
+- local IP range:192.168.1.0/24
+- 
+   
+
   
 
