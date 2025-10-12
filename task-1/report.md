@@ -65,6 +65,9 @@ Result
     ![img not found](assets/wireshark.png)
 
 
+  :link: [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+
+  
   <h2 align="center">End</h2>
 
   ---
