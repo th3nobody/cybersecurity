@@ -125,10 +125,16 @@ network exposure
     |----|-------|----------|---------------|
     |23|telnet|❗ High|• Unencrypted communication — credentials and data are sent in plaintext.<br> •  Legacy protocol lacking modern security features.<br> •  Provides remote access if misconfigured.| 
     |80|http|⚠ Medium|• Unencrypted web traffic vulnerable to MITM attacks.<br> • Possible exposure to common web vulnerabilities. <br> • Potential for phishing, malware hosting, or defacement if compromised |
+    ### 8. Saved result
 
-  🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+    🌐 [TCP SYN output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
-  
+    🌐 [common service](https://th3nobody.github.io/cybersecurity/task-1/assets/wireshark_nmap.html).
+
+    ### Outcome:
+    - Basic network reconnaissance skills; understanding network service exposure.
+
+
   <h2 align="center">End</h2>
 
   ---
