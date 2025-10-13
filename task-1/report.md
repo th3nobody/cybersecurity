@@ -2,7 +2,7 @@
 
   - [Objective](#objective)
   - [Tools](#tools)
-  - [Hint](#hints)
+  - [Hints](#hints)
   - [Task Solution](#task-solution)
     - [finding Local ip range](#2-finding-local-ip-range)
     - [Performing TCP SYN scan using nmap](#3--performing-tcp-syn-scan-using-nmap)
