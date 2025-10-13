@@ -71,13 +71,12 @@ network exposure
  
   ![img not found](assets/nmap-scan.png)
 
- 
 
-### 4. IP addresses and open ports found
+  ### 4. IP addresses and open ports found
 
- 🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+  🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
- 🖥️ Target: 192.168.1.1
+  🖥️ Target: 192.168.1.1
 
   |Port|State|Portocol|Service|
   |----|-----|--------|-------|
@@ -118,7 +117,14 @@ network exposure
     |23|tcp|open|syn-ack|telnet||
     |80|tcp|open|syn-ack|http||
 
-  ### 7. potential security risks from open ports
+
+    ### 7. potential security risks from open ports
+ 
+    
+    |Port|Service|Risk level|Potential Risks|
+    |----|-------|----------|---------------|
+    |23|telnet|❗ High|• Unencrypted communication — credentials and data are sent in plaintext.<br> •  Legacy protocol lacking modern security features.<br> •  Provides remote access if misconfigured.| 
+    |80|http|⚠ Medium|• Unencrypted web traffic vulnerable to MITM attacks.<br> • Possible exposure to common web vulnerabilities. <br> • Potential for phishing, malware hosting, or defacement if compromised |
 
   🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
