@@ -94,7 +94,7 @@ network exposure
   |192.168.1.6|smart phone|redmi-note-10-pro|
 
 
-  ### 6. Analyzing packet capture with Wireshark.
+  ### 5. Analyzing packet capture with Wireshark.
 
   - open `wireshark`
   - choose wlan0
@@ -107,18 +107,18 @@ network exposure
 
      ![img not found](assets/filter-wireshark.png)
 
-    ### Common services running on those ports
+    ### 6. Common services running on those ports
 
     🌐 [common service](https://th3nobody.github.io/cybersecurity/task-1/assets/wireshark_nmap.html).
 
 
-    |Port|Protocol|Service|Product| Version| Description|
-    |----|--------|-------|-------|--------|------------|
-    |23|tcp|telnet||||
-    |80|tcp|http||||
-    |3517|tcp|802-11-iapp||||
+    |Port|Protocol|State|Reason|Service|Version|
+    |----|--------|-----|------|-------|-------|
+    |22|tcp|close|reset|ssh||
+    |23|tcp|open|syn-ack|telnet||
+    |80|tcp|open|syn-ack|http||
 
-
+  ### 7. potential security risks from open ports
 
   🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
