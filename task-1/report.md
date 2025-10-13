@@ -53,11 +53,11 @@ network exposure
  ### 2. finding Local ip range 
  - command `ip a` is used to display the network interfaces and their associated IP addresses.
 
-![img not found](assets/ip-scan.png)
-
-### Result 
 - my device ip: 192.168.1.3
 - local IP range:192.168.1.0/24
+
+![img not found](assets/ip-scan.png)
+
 
 ### 3.  Performing TCP SYN scan using nmap
 - command used :`nmap -sS 192.168.1.0/24 -oX network_scan.xml`
@@ -73,9 +73,11 @@ network exposure
 
  
 
-### 4 IP addresses and open ports found
+### 4. IP addresses and open ports found
 
  🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+
+ 🖥️ Target: 192.168.1.1`
 
   |Port|State|Portocol|Service|
   |----|-----|--------|-------|
