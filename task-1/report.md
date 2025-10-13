@@ -100,11 +100,17 @@ network exposure
   - choose wlan0
   - nmap command: `nmap -sS 192.168.1.1`
     
-     here 192.168.1.1 is router ip and with filter `tcp and host 192.168.1.1` only communication with router under tcp protoval is captured in wire shark.
 
     ![img not found](assets/wireshark.png)
 
+       - here 192.168.1.1 is router ip and with filter `tcp && (ip.src == 192.168.1.1 || ip.dst == 192.168.1.1)` only communication with router under tcp protocal is captured in wire shark.
+
+     ![img not found](assets/filter-wireshark.png)
+
     ### Common services running on those ports
+
+    🌐 [common service](https://th3nobody.github.io/cybersecurity/task-1/assets/wireshark_nmap.html).
+
 
     |Port|Protocol|Service|Product| Version| Description|
     |----|--------|-------|-------|--------|------------|
