@@ -94,15 +94,24 @@ network exposure
   |192.168.1.6|smart phone|redmi-note-10-pro|
 
 
-  ### 5. Analyzing packet capture with Wireshark.
+  ### 6. Analyzing packet capture with Wireshark.
 
   - open `wireshark`
   - choose wlan0
-  - nmap command: `nmap -sS -p 22,23,80 192.168.1.1`
+  - nmap command: `nmap -sS 192.168.1.1`
     
      here 192.168.1.1 is router ip and with filter `tcp and host 192.168.1.1` only communication with router under tcp protoval is captured in wire shark.
 
     ![img not found](assets/wireshark.png)
+
+    ### Common services running on those ports
+
+    |Port|Protocol|Service|Product| Version| Description|
+    |----|--------|-------|-------|--------|------------|
+    |23|tcp|telnet||||
+    |80|tcp|http||||
+    |3517|tcp|802-11-iapp||||
+
 
 
   🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
