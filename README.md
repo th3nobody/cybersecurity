@@ -1,7 +1,8 @@
+<h1 align="center">Cyber Security Task Repository</h1>
 
-Each task folder contains:
+#### Each task folder contains:
 - `report.md`: My write-up for the task
-- screenshots scripts and other attachments are kept inside assets folder of respective task folder.
+- `assets` folder contains screenshots scripts and other attachments .
 
 ---
 
