@@ -42,17 +42,20 @@ network exposure
 
 
 ## Task Solution
-### 1. Installing Nmap [Download Nmap suitable for your system](https://nmap.org/download.html).
+### 1. Installing Nmap 
+
+- [Download Nmap](https://nmap.org/download.html) suitable for your system.
+- Follow instruction provided by the website.
 - In my case (kali linux) i used command `sudo apt install nmap`.
   
  ![img not found](assets/nmap-install.png)
 
  ### 2. finding Local ip range 
- - command `ip a`
+ - command `ip a` is used to display the network interfaces and their associated IP addresses.
 
 ![img not found](assets/ip-scan.png)
 
-Result 
+### Result 
 - my device ip: 192.168.1.3
 - local IP range:192.168.1.0/24
 
@@ -65,12 +68,14 @@ Result
    [guide to comvert xml into html](https://nmap.org/book/output-formats-output-to-html.html),
   
   [other possible output formats in nmap](https://nmap.org/book/output.html)
-
+ 
   ![img not found](assets/nmap-scan.png)
 
-  :link: [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+ 
 
-#### Open ports.
+### 4 IP addresses and open ports found
+
+ 🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
   |Port|State|Portocol|Service|
   |----|-----|--------|-------|
@@ -97,7 +102,7 @@ Result
     ![img not found](assets/wireshark.png)
 
 
-  :link: [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
+  🌐 [Nmap output in html](https://th3nobody.github.io/cybersecurity/task-1/assets/nmap-scan.html).
 
   
   <h2 align="center">End</h2>
