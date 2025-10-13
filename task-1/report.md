@@ -46,21 +46,27 @@ network exposure
 
 - [Download Nmap](https://nmap.org/download.html) suitable for your system.
 - Follow instruction provided by the website.
-- In my case (kali linux) i used command `sudo apt install nmap`.
+- In my case (kali linux) I used command: `sudo apt install nmap`.
+
+      sudo apt install nmap.
   
  ![img not found](assets/nmap-install.png)
 
  ### 2. finding Local ip range 
  - command `ip a` is used to display the network interfaces and their associated IP addresses.
-
-- my device ip: 192.168.1.3
-- local IP range:192.168.1.0/24
+   
+        ip a
+   
+ - my device ip: 192.168.1.3
+ - local IP range:192.168.1.0/24
 
 ![img not found](assets/ip-scan.png)
 
 
 ### 3.  Performing TCP SYN scan using nmap
 - command used :`nmap -sS 192.168.1.0/24 -oX network_scan.xml`
+
+      nmap -sS 192.168.1.0/24 -oX network_scan.xml
   
    here -oX is used to save the output file in xml formal. which can be used in other tools but in my case I have converted that xml into html file
   with the help of xsltproc tool
