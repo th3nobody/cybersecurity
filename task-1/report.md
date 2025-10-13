@@ -104,6 +104,8 @@ network exposure
   - open `wireshark`
   - choose wlan0
   - nmap command: `nmap -sS 192.168.1.1`
+ 
+        nmap -sS 192.168.1.1
     
 
     ![img not found](assets/wireshark.png)
