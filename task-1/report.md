@@ -4,12 +4,16 @@
   - [Tools](#tools)
   - [Hints](#hints)
   - [Task Solution](#task-solution)
-    - [finding Local ip range](#2-finding-local-ip-range)
-    - [Performing TCP SYN scan using nmap](#3--performing-tcp-syn-scan-using-nmap)
-    - [Analyzing packet capture with Wireshark](#4-analyzing-packet-capture-with-wireshark)
-
-
-
+    - [1. Installing Nmap](#1-installing-nmap)
+    - [2. finding Local ip range](#2-finding-local-ip-range)
+    - [3.  Performing TCP SYN scan using nmap](#3--performing-tcp-syn-scan-using-nmap)
+    - [4. IP addresses and open ports found](#4-ip-addresses-and-open-ports-found)
+    - [5. Analyzing packet capture with Wireshark.](#5-analyzing-packet-capture-with-wireshark)
+    - [6. Common services running on those ports](#6-common-services-running-on-those-ports)
+    - [7. potential security risks from open ports](#7-potential-security-risks-from-open-ports)
+    - [8. Saved result](#8-saved-result)
+- [Outcome](#outcome)
+  
 
 # Task 1: Scan Your Local Network for Open Ports
 
