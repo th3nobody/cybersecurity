@@ -1,6 +1,19 @@
 [Task 1: Scan Your Local Network for Open Ports](#task-1-scan-your-local-network-for-open-ports)
 
-[Objective](https://github.com/th3nobody/cybersecurity/blob/main/task-1/report.md#objective)
+[Objective](#objective)
+
+[Tools](#tools)
+
+[Task Solution](#task-solution)
+
+[finding Local ip range](#2-finding-local-ip-range)
+
+[Performing TCP SYN scan using nmap](#3--performing-tcp-syn-scan-using-nmap)
+
+[Analyzing packet capture with Wireshark](#4-analyzing-packet-capture-with-wireshark)
+
+
+
 
 # Task 1: Scan Your Local Network for Open Ports
 
