@@ -1,3 +1,7 @@
+[Task 1: Scan Your Local Network for Open Ports](#task-1-scan-your-local-network-for-open-ports)
+
+[Objective](https://github.com/th3nobody/cybersecurity/blob/main/task-1/report.md#objective)
+
 # Task 1: Scan Your Local Network for Open Ports
 
 ## Objective:
