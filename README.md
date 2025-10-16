@@ -11,7 +11,7 @@
 |Task|Focus Area|link|
 |------|--------|----|
 |1| Network Reconnaissance|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-1/report.md)|
-|2||
+|2|Web Vulnerability|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-2/report.md)|
 
 
 ---
@@ -21,6 +21,7 @@
 - Kali Linux
 - Nmap
 - Wireshark
+- Burp Suite
 
 ---
 
