@@ -1,28 +1,17 @@
-[Task 2: Web Application Analysis with Burp Suite]()
+[Task 2: Web Application Analysis with Burp Suite](#task-2-web-application-analysis-with-burp-suite)
+- [Objective](#objective)
+- [Tools](#tools)
+- [Hints](#hints)
 
-[Objective]()
-
-[Tools]()
-
-[Hints]()
-
-[Task Solution]()
-
-[1. Setup]()
-
-[2. Intercept]()
-
-[3. Probe Manually]()
-
-[4. Decode Data]()
-
-[5. Set Up Attack]()
-
-[6. Launch Attack]()
-
-[7. Analyze Results]()
-
-[8. Compare to Confirm]()
+- [Task Solution](#task-solution)
+  - [1. Setup](#1-setup)
+  - [2. Intercept](#2-intercept)
+  - [3. Probe Manually](#3-probe-manually)
+  - [4. Decode Data](#4-decode-data)
+  - [5. Set Up Attack](#5-set-up-attack)
+  - [6. Launch Attack](#6-launch-attack)
+  - [7. Analyze Results](#7-analyze-results)
+  - [8. Compare to Confirm](#8-compare-to-confirm)
 
 
 
