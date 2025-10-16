@@ -32,10 +32,22 @@
 
   ## Task Solution
 
-  ### 1. Setup
+  ### 1. Setup:
 
 - Install foxyproxy extension [for chromium web browser](https://chromewebstore.google.com/detail/foxyproxy/gcknhkkoolaabfmlnjonogaaifnjlfnp) and [for firefox](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 - Add 127.0.0.1 as hostname and 8080 as port in the foxyproxy extension
-  ## <picture><img src = "assets/foxy-proxy.png"></picture>
+   ![img not found](assets/foxy-proxy.png)
 - go to [http://burp/](http://burp/) and download CA Certificate.
  ![gif not found](assets/crt-install.gif)
+- Now burp is ready to capture requests.
+ ### 2. Intercept:
+- select burp from your foxyproxy extension.
+- open target website enter login details.
+- check in http history section, you will find all request made from your browser.
+- send it to repeter and try modifing it and observe response from server.
+ ![img not found](assets/login-req-captured.png)
+
+### 3. Probe Manually
+
+- Right click your login request and select send to Repeater.
+- I tried adding 
