@@ -47,7 +47,43 @@
 - send it to repeter and try modifing it and observe response from server.
  ![img not found](assets/login-req-captured.png)
 
-### 3. Probe Manually
+### 3. Probe Manually:
 
 - Right click your login request and select send to Repeater.
-- I tried adding 
+- I tried adding '-- after email address.
+- And found this login page is vulnerable to Sql injection.
+ ![img not found](assets/sql-injection.png)
+
+### 4. Decode Data:
+- There was a encoded text in the login dashboard.
+
+      Q29uZ3JhdHVsYXRpb25zISBZb3UgaGF2ZSBzdWNjZXNzZnVsbHkgc29sdmVkIHRoZSBsYWIgZGVzaWduZWQgYnkgQXNtaWssICRGTEFHe2FzbTFrX3J1bDN6XzBubHl9IyQ=.
+- Select the encoded text and right click it then select send to decoder.
+- Select decode as Base64
+![img not found](assets/msg-decoded.png)
+- And found flag : `$FLAG{asm1k_rul3z_0nly}#$.`
+
+       $FLAG{asm1k_rul3z_0nly}#$.
+
+### 5. Set Up Attack:
+
+- Right-click the request in Repeater and "Send to Intruder".
+- In the Positions tab, clear default selections (§).
+- And mark only the password field as the payload position.
+![img not found](assets/intruder-payload.png)
+
+### 6. Launch Attack: 
+- In payload option click load and select file will potential password.
+- Set the attack type to Sniper and click "Start attack".
+  ![img not found](assets/intruder-payload.png)
+
+### 7. Analyze Results:
+- let the attack be completed.
+- Sort by the "Length" column, the different in response length is likely the one with successful login.
+
+   ![gif not found](assets/intruder-brute.gif)
+
+### 8. Compare to Confirm: 
+
+- Send one failed response and the suspected successful response to the Comparer tab.
+- Perform a "Words" comparison to visually confirm the differences and validate your findings.
