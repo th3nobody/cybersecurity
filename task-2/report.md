@@ -87,3 +87,10 @@
 
 - Send one failed response and the suspected successful response to the Comparer tab.
 - Perform a "Words" comparison to visually confirm the differences and validate your findings.
+![img not found](assets/compare.png)
+- while comparing two response I found my intruder attack was sucessfull.
+- And found that password was `test`
+  
+  ---
+
+  
