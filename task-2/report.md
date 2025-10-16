@@ -66,7 +66,7 @@
 ### 3. Probe Manually:
 
 - Right click your login request and select send to Repeater.
-- I tried adding '-- after email address.
+- I tried adding `'--` after email address.
 - And found this login page is vulnerable to Sql injection.
  ![img not found](assets/sql-injection.png)
 
