@@ -2,7 +2,6 @@
 - [Objective](#objective)
 - [Tools](#tools)
 - [Hints](#hints)
-
 - [Task Solution](#task-solution)
   - [1. Setup](#1-setup)
   - [2. Intercept](#2-intercept)
