@@ -35,7 +35,7 @@
 ## Task Solution
 
 ### 1. Obtain a sample phishing email.
-- 
+ 
 
 ![img not found](assets/sample.png)
 
