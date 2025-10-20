@@ -12,6 +12,7 @@
 |------|--------|----|
 |1| Network Reconnaissance|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-1/report.md)|
 |2|Web Vulnerability|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-2/report.md)|
+|3|Email Thread Analysis|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md)|
 
 
 ---
@@ -22,6 +23,7 @@
 - Nmap
 - Wireshark
 - Burp Suite
+- Header Analyzer
 
 ---
 
