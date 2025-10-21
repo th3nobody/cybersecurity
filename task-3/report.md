@@ -56,7 +56,10 @@
   #### comparing orignal email and phishing email template
 
 
-- 
+- Even though phishing email seems real there are some mojor mistakes in that template.
+  - first mistake is sender email, nowadays official email are verified but this email is nither verified nor seems legitimate.
+  - All new emails from meta comes with meta signature but this email does not contains one.
+  
 
   ![img not found](assets/compare.png) 
   
