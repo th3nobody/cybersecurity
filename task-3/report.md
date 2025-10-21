@@ -159,7 +159,10 @@
   - All new emails from meta comes with meta signature but this email does not contains one.
   
 
-  ![img not found](assets/compare.png) 
+  ![img not found](assets/compare.png)
+
+
+### 8. Summarize phishing traits found in the email.
 
 
 
