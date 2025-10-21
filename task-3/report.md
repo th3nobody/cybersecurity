@@ -53,7 +53,7 @@
 
 ### 2. Examine sender's email address.
 
-- As seen in the image this mail was send using gophish using email `ajalto32@gmail.com`
+- As seen in the image this mail was send by gophish using email `ajalto32@gmail.com`
 
    ![img not found](assets/header.png)
   
