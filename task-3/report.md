@@ -46,6 +46,9 @@
 <br>
 
 - when sent to victim it looks like
+  
+  <br><br>
+  
   ![img not found](assets/mail-sample.png) 
 
 ### 2. Examine sender's email address.
