@@ -147,7 +147,13 @@
 
 - link :
 
-      [On checking every clickable link I found that every link redirects to same site.](https://largely-helpful-swift.global.ssl.fastly.net/NTQzYWNjMTAxMzkzM2MyYmM4MmE1YQ==/ig-en.php?profileid=780849966&amp;auth=OWZhMzQ1ZmExOGU3MGI4NzZjZGYzMA==)
+      https://largely-helpful-swift.global.ssl.fastly.net/NTQzYWNjMTAxMzkzM2MyYmM4MmE1YQ==/ig-en.php?profileid=780849966&amp;auth=OWZhMzQ1ZmExOGU3MGI4NzZjZGYzMA==
+
+  <br>
+
+  ![gif not found](assets/link.gif)
+
+  <br>
 
 
   
