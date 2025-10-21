@@ -37,6 +37,6 @@
 ### 1. Obtain a sample phishing email.
  
 
-![img not found](assets/sample.png)
+![img not found](assets/template-sample.png)
 
 ### 2. Examine sender's email address.
