@@ -43,4 +43,9 @@
 
 ![img not found](assets/template-sample.png)
 
+<br>
+
+- when sent to victim it looks like
+  ![img not found](assets/mail-sample.png) 
+
 ### 2. Examine sender's email address.
