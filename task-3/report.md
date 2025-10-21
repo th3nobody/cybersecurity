@@ -129,5 +129,21 @@
 
  <br>
 
+
+ ### 5. Looking for urgent or threatening language in the email body.
+
+ - The email is showing that my account was accessed outside of country and asked me to secure my account.
+   
+
+    <br>
+
+ ![img not found](assets/urg.png)  
+
+ <br><br>
+
+ ### 6.Note any mismatched URLs.
+
+- 
+   
  
 
