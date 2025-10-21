@@ -94,7 +94,6 @@
 
 - On checking every clickable link i found that every link redirects to same site.
 
- ![img not found](assets/email-link.png)  
 
 <br> 
   
@@ -102,7 +101,11 @@
 
       https://largely-helpful-swift.global.ssl.fastly.net/NTQzYWNjMTAxMzkzM2MyYmM4MmE1YQ==/ig-en.php?profileid=780849966&amp;auth=OWZhMzQ1ZmExOGU3MGI4NzZjZGYzMA==
 
-- while visiting the link there was a instagram clone like website.
+   ![img not found](assets/email-link.png)
+
+  <br>
+
+- #### while visiting the link there was a instagram clone like website.
 
   <br>
 
