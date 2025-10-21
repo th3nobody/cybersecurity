@@ -51,6 +51,19 @@
   
   ![img not found](assets/mail-sample.png) 
 
+
+
+  #### comparing orignal email and phishing email template
+
+
+- 
+
+  ![img not found](assets/compare.png) 
+  
+  
+  
+  <br>
+
 ### 2. Examine sender's email address.
 
 - As seen in the image this mail was send by gophish using email `ajalto32@gmail.com`
