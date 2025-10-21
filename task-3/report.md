@@ -35,7 +35,8 @@
 ## Task Solution
 
 ### 1. Obtain a sample phishing email.
- 
+
+ 🌐 [template](https://th3nobody.github.io/cybersecurity/task-3/assets/templats.html) 
 
 ![img not found](assets/template-sample.png)
 
