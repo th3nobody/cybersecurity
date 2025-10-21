@@ -73,4 +73,21 @@
 
       X-Mailer: gophish
   
+
+  ### 3.Check email headers for discrepancies
+
+ ![img not found](assets/del-info.png)
+
+ <br>
+
+  ![img not found](assets/analysis.png)
+
+<br>
+
+ ![img not found](assets/relay-info.png)
+
+ <br>
+ 
+
   
+
