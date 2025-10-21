@@ -74,7 +74,7 @@
       X-Mailer: gophish
   
 
-  ### 3.Check email headers for discrepancies
+### 3. Check email headers for discrepancies
 
  ![img not found](assets/del-info.png)
 
@@ -89,8 +89,6 @@
 
  <br>
 
- 
- 
 
-  
+### 4. Identify suspicious links or attachments.
 
