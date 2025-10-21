@@ -52,3 +52,17 @@
   ![img not found](assets/mail-sample.png) 
 
 ### 2. Examine sender's email address.
+
+- As seen in the image this mail was send using gophish using email `ajalto32@gmail.com`
+  
+<br>
+
+  ![img not found](assets/origin.png)
+
+- Here in this mail X-Google-Original-From is set to  `security@mail.instagram.com`
+  
+
+      X-Google-Original-From: security@mail.instagram.com
+
+  <br>
+  
