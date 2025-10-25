@@ -217,7 +217,7 @@
   
 - #### Result from gopish
 
- ![img not found](assets/result-gopish.png)
+ ![img not found](assets/result.png)
 
 - #### Leaked data from victim
 
