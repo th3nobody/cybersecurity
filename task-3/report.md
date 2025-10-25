@@ -165,10 +165,16 @@
 ### 8. Summarize phishing traits found in the email.
 
 - #### Spoofed Sender Address
-   - The sender's email was supposed to be `security@mail.instagram.com` but the email came from email `ajalto32@gmail.com`
+   - The sender's email was supposed to be `security@mail.instagram.com` but the email came from email `ajalto32@gmail.com`.
 
-- ####
+- #### Suspicious Links
+   - Even though the UI was almost same but the link was way too off
 
+     i.e
+
+          https://largely-helpful-swift.global.ssl.fastly.net/NTQzYWNjMTAxMzkzM2MyYmM4MmE1YQ==/ig-en.php?profileid=780849966&amp;auth=OWZhMzQ1ZmExOGU3MGI4NzZjZGYzMA==
+
+     
 
 
   
