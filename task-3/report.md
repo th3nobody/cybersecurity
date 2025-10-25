@@ -8,7 +8,10 @@
   - [3. Check email headers for discrepancies]()
   - [4. Identify suspicious links or attachments.]()
   - [5. Looking for urgent or threatening language in the email body.]()
-  - 
+  - [6. Note any mismatched URLs.]()
+  - [7. Verify presence of spelling or grammar errors.]()
+  - [8. Summarize phishing traits found in the email.]()
+- [Outcome]
 
 
 # Task 3: Analyze a Phishing Email Sample
@@ -198,7 +201,7 @@
        ![img not found](assets/leak.png)
 
 
-### Outcome: : Awareness of phishing tactics and email threat analysis skills.
+### Outcome: Awareness of phishing tactics and email threat analysis skills.
 
 ## ⚠️ Disclaimer
 
