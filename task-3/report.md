@@ -180,6 +180,10 @@
 
  - #### Urgent and Threatening Language
     - The mail seems to give warning to user that their passsword has ben compromised and their account was loggedin by another person outside the country.
+  
+- #### result from gopish
+
+ ![img not found](assets/result-gopish.png)
 
 - #### Leaked data from victim
 
