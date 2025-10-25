@@ -3,16 +3,16 @@
 - [Tools](#tools)
 - [Hints](#hints)
 - [Task Solution](#task-solution)
-  - [1. Obtain a sample phishing email.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#1-obtain-a-sample-phishing-email)
-  - [2. Examine sender's email address.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#2-examine-senders-email-address)
-  - [3. Check email headers for discrepancies](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#3-check-email-headers-for-discrepancies)
-  - [4. Identify suspicious links or attachments.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#4-identify-suspicious-links-or-attachments)
-  - [5. Looking for urgent or threatening language in the email body.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#5-looking-for-urgent-or-threatening-language-in-the-email-body)
-  - [6. Note any mismatched URLs.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#6-note-any-mismatched-urls)
-  - [7. Verify presence of spelling or grammar errors.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#7-verify-presence-of-spelling-or-grammar-errors)
-  - [8. Summarize phishing traits found in the email.](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#8-summarize-phishing-traits-found-in-the-email)
-- [Outcome](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#outcome--awareness-of-phishing-tactics-and-email-threat-analysis-skills)
-- [⚠️ Disclaimer](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#%EF%B8%8F-disclaimer)
+  - [1. Obtain a sample phishing email.](#1-obtain-a-sample-phishing-email)
+  - [2. Examine sender's email address.](#2-examine-senders-email-address)
+  - [3. Check email headers for discrepancies](#3-check-email-headers-for-discrepancies)
+  - [4. Identify suspicious links or attachments.](#4-identify-suspicious-links-or-attachments)
+  - [5. Looking for urgent or threatening language in the email body.](#5-looking-for-urgent-or-threatening-language-in-the-email-body)
+  - [6. Note any mismatched URLs.](#6-note-any-mismatched-urls)
+  - [7. Verify presence of spelling or grammar errors.](#7-verify-presence-of-spelling-or-grammar-errors)
+  - [8. Summarize phishing traits found in the email.](#8-summarize-phishing-traits-found-in-the-email)
+- [Outcome](#outcome)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
 
 # Task 3: Analyze a Phishing Email Sample
@@ -202,11 +202,14 @@
        ![img not found](assets/leak.png)
 
 
-### Outcome: Awareness of phishing tactics and email threat analysis skills.
+### Outcome: 
+- Awareness of phishing tactics and email threat analysis skills.
 
 <br>
 
 ---
+
+<br>
 
 ## ⚠️ Disclaimer
 
