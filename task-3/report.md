@@ -11,7 +11,8 @@
   - [6. Note any mismatched URLs.]()
   - [7. Verify presence of spelling or grammar errors.]()
   - [8. Summarize phishing traits found in the email.]()
-- [Outcome]
+- [Outcome]()
+- [⚠️ Disclaimer]()
 
 
 # Task 3: Analyze a Phishing Email Sample
