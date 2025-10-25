@@ -11,7 +11,7 @@
   - [4. Identify suspicious links or attachments.](#4-identify-suspicious-links-or-attachments)
      - [while visiting the link there was a instagram clone like website.](#while-visiting-the-link-there-was-a-instagram-clone-like-website)
   - [5. Looking for urgent or threatening language in the email body.](#5-looking-for-urgent-or-threatening-language-in-the-email-body)
-  - [6. Note any mismatched URLs.](#6-note-any-mismatched-urls)
+  - [6. Note any mismatched URLs](#6-note-any-mismatched-urls)
   - [7. Verify presence of spelling or grammar errors.](#7-verify-presence-of-spelling-or-grammar-errors)
   - [8. Summarize phishing traits found in the email.](#8-summarize-phishing-traits-found-in-the-email)
      - [Spoofed Sender Address](#spoofed-sender-address)
