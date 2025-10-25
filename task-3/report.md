@@ -3,6 +3,12 @@
 - [Tools](#tools)
 - [Hints](#hints)
 - [Task Solution](#task-solution)
+  - [1. Obtain a sample phishing email.]()
+  - [2. Examine sender's email address.]()
+  - [3. Check email headers for discrepancies]()
+  - [4. Identify suspicious links or attachments.]()
+  - [5. Looking for urgent or threatening language in the email body.]()
+  - 
 
 
 # Task 3: Analyze a Phishing Email Sample
