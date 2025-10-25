@@ -190,6 +190,13 @@
     - while the mail was send to 5 person 2 of then were Fooled to send their login credentials
  
        ![img not found](assets/leak.png)
+
+
+### Outcome: : Awareness of phishing tactics and email threat analysis skills.
+
+## ⚠️ Disclaimer
+
+#### All the test were performed under controlled envoronment , No real user is harmed during this testing purpose.
       
      
 
