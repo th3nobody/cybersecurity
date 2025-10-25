@@ -164,6 +164,10 @@
 
 ### 8. Summarize phishing traits found in the email.
 
+- #### Spoofed Sender Address
+   - The sender's email was supposed to be `security@mail.instagram.com` but the email came from email `ajalto32@gmail.com`
+
+- ####
 
 
 
