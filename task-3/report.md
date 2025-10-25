@@ -44,6 +44,8 @@
 
 ## Task Solution
 
+---
+
 ### 1. Obtain a sample phishing email.
 <br>
 
@@ -74,6 +76,8 @@
   
   <br>
 
+  ---
+
 ### 2. Examine sender's email address.
 
 - As seen in the image this mail was send by gophish using email `ajalto32@gmail.com`
@@ -97,6 +101,8 @@
       X-Mailer: gophish
   
 
+---
+
 ### 3. Check email headers for discrepancies
 
  ![img not found](assets/del-info.png)
@@ -111,6 +117,8 @@
    ![img not found](assets/analysis.png)
 
  <br>
+
+ ---
 
 
 ### 4. Identify suspicious links or attachments.
@@ -136,6 +144,8 @@
 
  <br>
 
+ ---
+
 
  ### 5. Looking for urgent or threatening language in the email body.
 
@@ -147,6 +157,8 @@
  ![img not found](assets/urg.png)  
 
  <br><br>
+
+ ---
 
  ### 6. Note any mismatched URLs.
 
@@ -162,6 +174,8 @@
 
   <br>
 
+---
+
 ### 7. Verify presence of spelling or grammar errors.
 
 - Even though phishing email seems real there are some mojor mistakes in that template.
@@ -171,6 +185,8 @@
 
   ![img not found](assets/compare.png)
 
+
+---
 
 ### 8. Summarize phishing traits found in the email.
 
@@ -201,6 +217,8 @@
  
        ![img not found](assets/leak.png)
 
+
+---
 
 ### Outcome: 
 - Awareness of phishing tactics and email threat analysis skills.
