@@ -176,7 +176,17 @@
 
 
  ![img not found](assets/link.png)
+
+
+ - #### Urgent and Threatening Language
+    - The mail seems to give warning to user that their passsword has ben compromised and their account was loggedin by another person outside the country.
+
+- #### Leaked data from victim
+
+    - while the mail was send to 5 person 2 of then were Fooled to send their login credentials
  
+       ![img not found](assets/leak.png)
+      
      
 
 
