@@ -19,7 +19,8 @@
      - [Urgent and Threatening Language](#urgent-and-threatening-language)
      - [Result from gopish](#result-from-gopish)
      - [Leaked data from victim](#leaked-data-from-victim)
-     - 
+
+    
 - [Outcome](#outcome)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
