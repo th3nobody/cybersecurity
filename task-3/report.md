@@ -4,13 +4,19 @@
 - [Hints](#hints)
 - [Task Solution](#task-solution)
   - [1. Obtain a sample phishing email.](#1-obtain-a-sample-phishing-email)
+     - [when sent to victim it looks like](#when-sent-to-victim-it-looks-like)
+     - [comparing orignal email and phishing email template](#comparing-orignal-email-and-phishing-email-template)
   - [2. Examine sender's email address.](#2-examine-senders-email-address)
   - [3. Check email headers for discrepancies](#3-check-email-headers-for-discrepancies)
   - [4. Identify suspicious links or attachments.](#4-identify-suspicious-links-or-attachments)
+     - [while visiting the link there was a instagram clone like website.](#while-visiting-the-link-there-was-a-instagram-clone-like-website)
   - [5. Looking for urgent or threatening language in the email body.](#5-looking-for-urgent-or-threatening-language-in-the-email-body)
   - [6. Note any mismatched URLs.](#6-note-any-mismatched-urls)
   - [7. Verify presence of spelling or grammar errors.](#7-verify-presence-of-spelling-or-grammar-errors)
   - [8. Summarize phishing traits found in the email.](#8-summarize-phishing-traits-found-in-the-email)
+     - [Spoofed Sender Address](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#spoofed-sender-address)
+     - [Suspicious Links](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#suspicious-links)
+     - [Urgent and Threatening Language](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#urgent-and-threatening-language)
 - [Outcome](#outcome)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
@@ -207,7 +213,7 @@
  - #### Urgent and Threatening Language
     - The mail seems to give warning to user that their passsword has ben compromised and their account was loggedin by another person outside the country.
   
-- #### result from gopish
+- #### Result from gopish
 
  ![img not found](assets/result-gopish.png)
 
