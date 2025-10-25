@@ -14,9 +14,12 @@
   - [6. Note any mismatched URLs.](#6-note-any-mismatched-urls)
   - [7. Verify presence of spelling or grammar errors.](#7-verify-presence-of-spelling-or-grammar-errors)
   - [8. Summarize phishing traits found in the email.](#8-summarize-phishing-traits-found-in-the-email)
-     - [Spoofed Sender Address](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#spoofed-sender-address)
-     - [Suspicious Links](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#suspicious-links)
-     - [Urgent and Threatening Language](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md#urgent-and-threatening-language)
+     - [Spoofed Sender Address](#spoofed-sender-address)
+     - [Suspicious Links](#suspicious-links)
+     - [Urgent and Threatening Language](#urgent-and-threatening-language)
+     - [Result from gopish](#result-from-gopish)
+     - [Leaked data from victim](#leaked-data-from-victim)
+     - 
 - [Outcome](#outcome)
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
