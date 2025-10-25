@@ -144,7 +144,7 @@
 
  <br><br>
 
- ### 6.Note any mismatched URLs.
+ ### 6. Note any mismatched URLs.
 
 - Checking all links , I came ti conclusion that whichever clickable link i click the outcome is came
 
