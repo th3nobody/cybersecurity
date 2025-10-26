@@ -1,4 +1,4 @@
-[Task 2: Web Application Analysis with Burp Suite](#task-2-web-application-analysis-with-burp-suite)
+[Task 3: Identify phishing characteristics in a suspicious email sample.](#task-3-analyze-a-phishing-email-sample)
 - [Objective](#objective)
 - [Tools](#tools)
 - [Hints](#hints)
@@ -170,7 +170,7 @@
 
  ### 6. Note any mismatched URLs.
 
-- Checking all links , I came ti conclusion that whichever clickable link i click the outcome is came
+- Checking all links , I came to conclusion that whichever clickable link i click the outcome is same
 
 - link :
 
