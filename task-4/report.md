@@ -175,8 +175,6 @@
 
 ### 4. Test the rule by attempting to connect to that port locally or remotely.
 
-#### In your windows pc:
-
 
 #### In your limux machine:
 
@@ -206,11 +204,35 @@
 
 ### 6. Remove the test block rule to restore original state.
 
-#### In your windows pc:
-
 #### In your limux machine:
 
 - in your linux terminal enter command `sudo ufw delete deny 23/tcp` and `sudo ufw delete allow 22`
+
+  ![img not found](assets/delete-rules.png)
+
+  <br>
+
+---
+
+### 7. Document commands or GUI steps used.
+
+#### In your windows pc: 
+
+ ![gif not found](assets/in-bound.gif)
+
+<br>
+
+#### In your limux machine:
+
+ ![gif not found](assets/rule-set.gif)
+
+- Following these simple GUI steps shown in this gif you can make changes in rules of firewals used in your windows or linux system.
+
+  <br>
+
+  ---
+
+  
 
 
 
