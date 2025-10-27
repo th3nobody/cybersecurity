@@ -106,8 +106,53 @@
 
  #### In your windows pc:
 
- 
 
+- after going to in/out bound rules click in new rules
+
+- set rule types to port
+
+   <br>
+  
+  ![img not found](assets/rule-prt.png)
+  
+  <br>
+
+- protocol to tcp or udp to 23 ( 23 is for telnet)
+
+   <br>
+  
+  ![img not found](assets/prt.png)
+  
+  <br>
+
+- in action section select what this is rules is supposed to do:
+  - allowing this connection
+  - or allowing is secure
+  - or blocking connection
+
+     <br>
+  
+  ![img not found](assets/act.png)
+  
+  <br>
+
+- then set what types of network profile is this rules applied to (eg: private, public)
+
+   <br>
+  
+  ![img not found](assets/profile.png)
+  
+  <br>
+
+- in the end give name and description to rule which will later help to recognize the rule.
+
+   <br>
+  
+  ![img not found](assets/rule-name.png)
+  
+  <br>
+
+  
  
   
 
