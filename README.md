@@ -13,6 +13,7 @@
 |1| Network Reconnaissance|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-1/report.md)|
 |2|Web Vulnerability|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-2/report.md)|
 |3|Email Thread Analysis|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-3/report.md)|
+|4|Firewall Setup|[View report](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md)|
 
 
 ---
@@ -24,6 +25,8 @@
 - Wireshark
 - Burp Suite
 - Header Analyzer
+-  Windows Firewall
+-  iptables
 
 ---
 
