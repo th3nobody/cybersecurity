@@ -11,6 +11,7 @@
 
   ## Tools:
 - Windows Firewall
+- ufw
 - iptables 
 - nftables
 
@@ -31,3 +32,23 @@
 7.Document commands or GUI steps used.
 
 8.Summarize how firewall filters traffic.
+
+## Task Solution
+
+---
+
+1.Open firewall configuration tool
+
+- In your windows pc go to control panel then system and security then windows defender firewall
+
+- Then click to Advanced setting
+
+ ![img not found](assets/control-p.png)
+
+ <br>
+
+- after clicking advanced setting you will abl to see windows defender rules and configurations
+
+<br>
+
+   ![img not found](assets/advances-s.png)
