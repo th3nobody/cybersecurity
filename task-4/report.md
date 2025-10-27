@@ -62,6 +62,8 @@
 
       sudo ufw status
 
+- if it shows inactive enter command `sudo ufw enable` to activate firewall.
+
    ![img not found](assets/ufw.png)
 
 ---
@@ -86,3 +88,29 @@
 
 ![img not found](assets/out-rules.png)
   
+<br>
+
+#### In your limux machine 
+
+- enter command `sudo ufw status numbered` to see all used rules
+
+      sudo ufw status numbered
+
+- if no rules are listed and only `status: active` message is received then no rules have been made in that systeme.
+
+<br>
+
+ ![img not found](assets/linux-rules.png) <br>
+
+ ### 3. Add a rule to block inbound traffic on a specific port (e.g., 23 for Telnet)
+
+ #### In your windows pc:
+
+ 
+
+ 
+  
+
+
+
+
