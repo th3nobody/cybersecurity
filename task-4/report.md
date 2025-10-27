@@ -102,6 +102,9 @@
 
  ![img not found](assets/linux-rules.png) <br>
 
+ 
+---
+
  ### 3. Add a rule to block inbound traffic on a specific port (e.g., 23 for Telnet)
 
  #### In your windows pc:
@@ -152,10 +155,21 @@
   
   <br>
 
+- Now the rule to block telnet connection have been saved.
+
+  <br>
+
+#### In your limux machine 
   
- 
+- in your linux terminal enter `sudo ufw deny 23/tcp` to block port 23 with tcp protocal (i.e telnet)
+
+      sudo ufw deny 23/tcp
+
+<br>
+
+   ![img not found](assets/rules-set.png)
   
+<br>
 
-
-
+--- 
 
