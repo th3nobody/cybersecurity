@@ -37,9 +37,11 @@
 
 ---
 
-1.Open firewall configuration tool
+### 1. Open firewall configuration tool
 
-- In your windows pc go to control panel then system and security then windows defender firewall
+#### In your windows pc:
+
+- go to control panel then system and security then windows defender firewall
 
 - Then click to Advanced setting
 
@@ -52,3 +54,35 @@
 <br>
 
    ![img not found](assets/advances-s.png)
+
+#### In your limux machine 
+
+- open terminal and enter command `sudo ufw status`
+
+
+      sudo ufw status
+
+   ![img not found](assets/ufw.png)
+
+---
+
+### 2. List current firewall rules.
+
+#### In your windows pc:
+
+- in the left side of your windows defender firewall with advance setting click:
+  
+
+  - inbound rules to see all inbound rules set in windows defender firewall <br>
+
+
+   ![img not found](assets/in-rules.png) <br>
+   
+
+  - outbound rules to see all inbound rules set in windows defender firewall
+
+<br>
+
+
+![img not found](assets/out-rules.png)
+  
