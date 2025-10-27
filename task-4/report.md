@@ -55,7 +55,7 @@
 
    ![img not found](assets/advances-s.png)
 
-#### In your limux machine 
+#### In your limux machine: 
 
 - open terminal and enter command `sudo ufw status`
 
@@ -90,7 +90,7 @@
   
 <br>
 
-#### In your limux machine 
+#### In your limux machine:
 
 - enter command `sudo ufw status numbered` to see all used rules
 
@@ -159,7 +159,7 @@
 
   <br>
 
-#### In your limux machine 
+#### In your limux machine:
   
 - in your linux terminal enter `sudo ufw deny 23/tcp` to block port 23 with tcp protocal (i.e telnet)
 
@@ -173,3 +173,45 @@
 
 --- 
 
+### 4. Test the rule by attempting to connect to that port locally or remotely.
+
+#### In your windows pc:
+
+
+#### In your limux machine:
+
+- in your linux terminal enter command `telnet localhost 23` to check connection
+
+      telnet localhost 23
+
+   ![img not found](assets/con-test.png)
+
+<br>
+
+- sincee rule is active the connection failed
+
+  <br>
+
+  ---
+
+### 5. Add rule to allow SSH (port 22) if on Linux.
+
+- in linux terminal enter command `sudo ufw allow 22` to allow SSH
+
+   ![img not found](assets/ssh-allow.png)
+
+  <br>
+  
+---
+
+### 6. Remove the test block rule to restore original state.
+
+#### In your windows pc:
+
+#### In your limux machine:
+
+- in your linux terminal enter command `sudo ufw delete deny 23/tcp` and `sudo ufw delete allow 22`
+
+
+
+  
