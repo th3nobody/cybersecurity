@@ -3,6 +3,15 @@
 - [Tools](#tools)
 - [Hints](#hints)
 - [Task Solution](#task-solution)
+  - [1. Open firewall configuration tool](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#1-open-firewall-configuration-tool)
+  - [2. List current firewall rules.](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#2-list-current-firewall-rules)
+  - [3. Add a rule to block inbound traffic on a specific port](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#3-add-a-rule-to-block-inbound-traffic-on-a-specific-port-eg-23-for-telnet)
+  - [4. Test the rule by attempting to connect to that port locally or remotely.](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#4-test-the-rule-by-attempting-to-connect-to-that-port-locally-or-remotely)
+  - [5. Add rule to allow SSH (port 22) if on Linux.](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#5-add-rule-to-allow-ssh-port-22-if-on-linux)
+  - [6. Remove the test block rule to restore original state.](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#6-remove-the-test-block-rule-to-restore-original-state)
+  - [7. Document commands or GUI steps used.](https://github.com/th3nobody/cybersecurity/blob/main/task-4/report.md#7-document-commands-or-gui-steps-used)
+  - [8. Summarize how firewall filters traffic.](https://github.com/th3nobody/cybersecurity/edit/main/task-4/report.md#8-summarize-how-firewall-filters-traffic)
+- [Outcome](#outcome)
 
 #  Task 4 : Setup and Use a Firewall on Windows/Linux
 
@@ -232,8 +241,25 @@
 
   ---
 
-  
+### 8. Summarize how firewall filters traffic.
+
+- Firewall acts as a barrier between the internal network and the Internet.
+
+- Firewall analyzes all incoming and outgoing packets using a set of security rules.
 
 
+- In this figure rules are set to allow  traffic from HTTP, SSH but block ICMP, malware, unknown ports
 
-  
+ ![img not found](assets/sum.png)
+
+
+ #### Note: Filtering decisions are based on IP address, port number, and protocol type.
+
+---
+
+### Outcome: 
+
+- Basic firewall management skills and understanding of network traffic filtering.
+
+---
+
